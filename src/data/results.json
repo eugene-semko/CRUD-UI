@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Eugene",
+        "car":"Subaru",
+        "time": 1.1
+    },
+    {
+        "name":"Ivan",
+        "car":"Fiat",
+        "time": 1.2
+    },
+    {
+        "name":"Sergey",
+        "car":"Mazda",
+        "time": 3.2
+    },
+    {
+        "name":"",
+        "car":"",
+        "time": 0
+    }
+]
